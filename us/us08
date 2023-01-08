@@ -1,0 +1,1 @@
+As a collection curator housed in the Protected Data Network, I want my collection to be encrypted with a key maintained on that server, a checksum made and stored of the encrypted file, and the encrypted file replicated to our remote storage site.

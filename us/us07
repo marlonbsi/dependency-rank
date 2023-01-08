@@ -1,0 +1,1 @@
+As a collection curator, I want the repository to queue my collection for replication upon ingest to our remote storage site and to display the remote replication status in each item and component page in the staff interface.
